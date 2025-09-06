@@ -21,7 +21,7 @@ The "big differences" between my implementation versus Steve's:
 I would encourage anyone that is interested in this light to check out Steve's build logs on YouTube:
 [Open Task Light Build Logs][sb_otl_youtube]
 
-![Picture of Task Light](images\IMG_1802.jpg)
+![Picture of Task Light](images/IMG_1802.jpg)
 
 More pictures of the light in the `\images` folder.
 
